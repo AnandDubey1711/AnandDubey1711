@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananddubey1711" alt="ananddubey1711" /></a> </p>
 
-- 🔭 I’m currently working on [React Admin DashBoard](https://ananddubey1711.github.io/react-admin-dashboard)
-
 - 🌱 I’m currently learning **Full Stack Development and App Development**
 
 - 💬 Ask me about **Frontend development, Backend Development, API creation**
